@@ -1,2 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_test_languagetest" />
+  <EntityRelationship Name="lk_test_languagetest_createdby" />
+  <EntityRelationship Name="lk_test_languagetest_modifiedby" />
+  <EntityRelationship Name="owner_test_languagetest" />
+  <EntityRelationship Name="team_test_languagetest" />
+  <EntityRelationship Name="user_test_languagetest" />
+</EntityRelationships>

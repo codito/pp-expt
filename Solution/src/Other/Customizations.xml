@@ -10,9 +10,13 @@
   <OrganizationSettings />
   <optionsets />
   <CustomControls />
-  <SolutionPluginAssemblies />
+  <AppModuleSiteMaps />
+  <AppModules />
   <EntityDataProviders />
   <Languages>
     <Language>1033</Language>
+    <Language>1036</Language>
+    <Language>1031</Language>
+    <Language>1081</Language>
   </Languages>
 </ImportExportXml>
